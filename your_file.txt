@@ -1,0 +1,17 @@
+Pichu	Electric	none
+Celebi	Grass	Psychic
+Moltres	Fire	none
+Suicune	Water	none
+Pinsir	Bug	none
+Doduo	Normal	Flying
+Oddish	Grass	Poison
+Entei	Fire	none
+Poliwag	Water	none
+Illumise	Bug	none
+Dodrio	Normal	Flying
+Gloom	Grass	Poison
+Oricorio	Fire	Flying
+Poliwhirl	Water	none
+Scyther	Bug	Flying
+Venipede	Bug	Poison
+Farfetchd	Normal	Flying

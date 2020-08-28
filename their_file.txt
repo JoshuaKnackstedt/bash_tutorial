@@ -1,0 +1,12 @@
+Batman	Iron Man
+Superman	Captain America
+Wonder Woman	Black Widow
+Flash	Quicksilver
+Green Arrow	Hawkeye
+Green Lantern	Thor
+Beast Boy	Rocket
+Cyborg	Vision
+Robin	Captain Marvel
+Starfire	Gamora
+Raven	Scarlet Witch
+Aqualad	Aquaman
